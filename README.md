@@ -4,4 +4,7 @@
 - Object detection(Sobel, Hough transform) 
 - Masking: merge, blur
 - Morphological Operations (Dilataion, Erosion, Closing)
+
 ![alt text](https://github.com/danilotpnta/ComputerVission/blob/main/preject1.jpg)
+
+## Project 2 [Coming]
