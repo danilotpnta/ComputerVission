@@ -1,6 +1,5 @@
 # ComputerVission
 ## Project 1 
-### [Done] - Deadline: 22th March
 - Apply filtering techniques(gaussian filter, bilateral filter)
 - Object detection(Sobel, Hough transform) 
 - Masking: merge, blur
