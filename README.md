@@ -24,6 +24,8 @@ This project is divided into two task:
 | Mila Kunis                                                   | 2     | 30       |
 | Sarah Hyland (who arguably looks similar to Mila Kunis)      | 0     | 10       |
 
+![alt text](https://github.com/danilotpnta/ComputerVission/blob/main/img/5.jpg)
+
 ##### Feature Extractors
 
 ###### SIFT
