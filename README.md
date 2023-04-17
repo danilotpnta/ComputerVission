@@ -17,4 +17,4 @@
 
 
 ## Project 3 
-### [Coming] - Deadline: 4th July
+### [Coming] - Deadline: 24th May
