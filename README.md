@@ -9,6 +9,7 @@
 
 ## Project 2 
 For the complete notebook visit: [cv-ga1.ipynb](https://github.com/danilotpnta/ComputerVission/blob/main/cv-ga1.ipynb)
+
 This project is divided into two task:
 
 1. Craft and Extract face Features from four celebrities using SIFT and PCA detector
