@@ -8,6 +8,7 @@
 ![alt text](https://github.com/danilotpnta/ComputerVission/blob/main/preject1.jpg)
 
 ## Project 2 
+For the complete notebook visit: [cv-ga1.ipynb](https://github.com/danilotpnta/ComputerVission/blob/main/cv-ga1.ipynb)
 This project is divided into two task:
 
 1. Craft and Extract face Features from four celebrities using SIFT and PCA detector
@@ -43,7 +44,7 @@ This project is divided into two task:
 ##### Results
 ![alt text](https://github.com/danilotpnta/ComputerVission/blob/main/img/7.png)
 
-The Ensemble method implemented use a combination of kNN, SVM, and CNN to predict the label of an image. The model shows positive results achieving the following accuracies 
+The Ensemble method implemented use a combination of kNN, SVM, and CNN to predict the label of an image. The model shows positive results achieving the following accuracies: 
 
 | Models    | Training Set | Test Set |
 | --------- | ------------ | -------- |
@@ -52,7 +53,7 @@ The Ensemble method implemented use a combination of kNN, SVM, and CNN to predic
 | SVM       | 0.75         | 0.76     |
 | CNN       | 0.89         | 0.78     |
 
-Hence, it is then concluded that a combination of models using majority vote over the labels using hard constraint yields an accuracy that is optimally. Put into words, 8 out of 10 times we are able to recognise/distinguish who actor is who.
+It is concluded that a combination of models using majority vote over the labels using hard constraint yields an accuracy that is optimally. Put into words, 8 out of 10 times we are able to recognise/distinguish who actor is who.
 
 
 ## Project 3 
