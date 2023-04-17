@@ -39,11 +39,10 @@ This project is divided into two task:
 ###### PCA
 - Reduce the dimensionality of the feature space by projecting the data onto a lower-dimension
 - Use eigenfaces to reconstruct an actor's face using PCA features extractor
-![alt text](https://github.com/danilotpnta/ComputerVission/blob/main/img/6.png)
+<img src="https://github.com/danilotpnta/ComputerVission/blob/main/img/6.png" alt="8" style="zoom:70%;" />
 
 ##### Results
-![alt text](https://github.com/danilotpnta/ComputerVission/blob/main/img/7.png)
-
+<img src="https://github.com/danilotpnta/ComputerVission/blob/main/img/7.png" alt="8" style="zoom:30%;" />
 The Ensemble method implemented use a combination of kNN, SVM, and CNN to predict the label of an image. The model shows positive results achieving the following accuracies: 
 
 | Models    | Training Set | Test Set |
