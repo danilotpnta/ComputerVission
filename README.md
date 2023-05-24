@@ -61,4 +61,4 @@ It is concluded that a combination of models using majority vote over the labels
 
 
 ## Project 3 
-### [Work in Progress] - Deadline: 24th May
+### [Update: 24 May 2023] - Project Done. Documentation will follow soon
